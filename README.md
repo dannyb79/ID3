@@ -3,7 +3,7 @@
 This source code has been around since 2009 previously hosted on http://id3alg.altervista.org/ (link is broken).
 
 This project is a C implementation of brilliant algorithm invented by Ross Quinlan. 
-This source generates a decision tree from a dataset and (tries to) extract rules from a classified dataset.
+This source generates a decision tree from a dataset and (tries to) extract rules from a categorized dataset.
 
 ## Getting Started
 
