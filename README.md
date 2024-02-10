@@ -107,6 +107,7 @@ Formula
 $Entropy(S) = S -p(I) log2 p(I)$
 
 is solved by calc_entropy_set() function and
+
 $Gain(S, A) = Entropy(S) - S ((|Sv| / |S|) * Entropy(Sv))$
 
 formula is solved by calc_attrib_gain() function. Nodes contains this data types
