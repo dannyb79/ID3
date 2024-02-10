@@ -18,11 +18,12 @@ Pure C, only math library required. You can easily build source on any environme
 use gcc
 
 \# gcc main.c id3.c -lm -o id3
+
 \# ./id3
 
 #### Windows
 
-Easily build and run in a Code::Blocks project, remember to add link to "m" library in "Build option".
+Easily build and run in a Code::Blocks project, remember to add link to "m" library in "Build options".
 
 #### Mac
 
@@ -153,13 +154,14 @@ Class NO
 	IF outlook = SUNNY AND humidity = HIGH
 	IF outlook = RAIN AND Wind = STRONG
 
-NOTE! This sources are an experimental version, many many optimizations can be done and memory allocations checked.
+NOTE! This source code is still an experimental version, many optimizations can be done.
 
 ## Credit & License 
 
 The MIT License (MIT)
 
-Copyright (c) 2009 Daniele Brunello
+Copyright (c) 2009 Daniele Brunello 
+Email: daniele.brunello.dev@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
